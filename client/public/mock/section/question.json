@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "body": "Does you have employment contracts for each of their employees?"
+    },
+    {
+      "id": 2,
+      "body": "Do you have signed records of all of your employment contracts?"
+    },
+    {
+      "id": 3,
+      "body": "Do you have a standard set of interview questions when conducting interviews?"
+    },
+    {
+      "id": 4,
+      "body": "Do you have a Diversity and Inclusion policy which outlines the intentio of the organisation with respect to hiring diverse staff?"
+    },
+    {
+      "id": 5,
+      "body": "Does you have employment contracts for each of their employees?"
+    }
+  ]
+}

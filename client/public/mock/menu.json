@@ -1,0 +1,28 @@
+[
+  { "id": 1, "isDone": 1, "title": "Recruitment and Selection" },
+  { "id": 2, "isDone": 1, "title": "Employee turnover" },
+  { "id": 3, "isDone": 1, "title": "Employee absenteeism" },
+  {
+    "id": 4,
+    "isDone": 1,
+    "title": "Employment Documentation and Introduction"
+  },
+  {
+    "id": 5,
+    "isDone": 1,
+    "title": "Pay, Leave and Entitlements inc. transparency q's"
+  },
+  { "id": 6, "isDone": 1, "title": "Policies and Procedures" },
+  { "id": 7, "isDone": 1, "title": "Performance Management" },
+  { "id": 8, "isDone": 1, "title": "Learning and Development" },
+  { "id": 9, "isDone": 1, "title": "Succession Planning" },
+  { "id": 10, "isDone": 1, "title": "Compensation and Benefits" },
+  { "id": 11, "isDone": 1, "title": "Business Culture and Strategy" },
+  {
+    "id": 12,
+    "isDone": 1,
+    "title": "HR Information System and data security"
+  },
+  { "id": 13, "isDone": 1, "title": "HR data and analytics" },
+  { "id": 14, "isDone": 0, "title": "Workplace Health and Safety (WHS)" }
+]

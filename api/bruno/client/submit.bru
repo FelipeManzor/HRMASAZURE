@@ -1,0 +1,11 @@
+meta {
+  name: submit
+  type: http
+  seq: 3
+}
+
+put {
+  url: {{protocol}}://{{host}}:{{port}}/survey/{{token}}/submit
+  body: none
+  auth: none
+}

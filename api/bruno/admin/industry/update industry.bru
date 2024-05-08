@@ -1,0 +1,19 @@
+meta {
+  name: update industry
+  type: http
+  seq: 3
+}
+
+put {
+  url: {{protocol}}://{{host}}:{{port}}/admin/industry
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": 11,
+    "name": "test",
+    "description": "test"
+  }
+}

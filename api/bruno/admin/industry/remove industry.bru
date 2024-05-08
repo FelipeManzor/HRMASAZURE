@@ -1,0 +1,11 @@
+meta {
+  name: remove industry
+  type: http
+  seq: 4
+}
+
+delete {
+  url: {{protocol}}://{{host}}:{{port}}/admin/industry/11
+  body: json
+  auth: none
+}

@@ -1,0 +1,15 @@
+meta {
+  name: import question
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{protocol}}://{{host}}:{{port}}/admin/import/question
+  body: multipartForm
+  auth: none
+}
+
+body:multipart-form {
+  file: @file(D:\Book1.csv)
+}

@@ -1,0 +1,18 @@
+meta {
+  name: add industry
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{protocol}}://{{host}}:{{port}}/admin/industry
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "test",
+    "description": "test"
+  }
+}

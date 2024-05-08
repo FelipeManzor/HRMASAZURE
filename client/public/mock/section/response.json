@@ -1,0 +1,42 @@
+[
+  {
+    "id": 71,
+    "value": 2,
+    "attachments": [
+      {
+        "id": 1,
+        "responseId": 71,
+        "name": "file.pdf",
+        "path": "/xxx/path.pdf",
+        "size": 100
+      },
+      {
+        "id": 2,
+        "responseId": 71,
+        "name": "file2.pdf",
+        "path": "/xxx/path2.pdf",
+        "size": 100
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "value": 1,
+    "attachments": []
+  },
+  {
+    "id": 73,
+    "value": 1,
+    "attachments": []
+  },
+  {
+    "id": 74,
+    "value": 2,
+    "attachments": []
+  },
+  {
+    "id": 75,
+    "value": 0,
+    "attachments": []
+  }
+]

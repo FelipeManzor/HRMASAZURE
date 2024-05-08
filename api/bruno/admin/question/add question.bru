@@ -1,0 +1,21 @@
+meta {
+  name: add question
+  type: http
+  seq: 2
+}
+
+put {
+  url: {{protocol}}://{{host}}:{{port}}/admin/question
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": 62,
+    "title": "whatever111",
+    "body": "whatever",
+    "categoryId": 1,
+    "bestPractice": "whatever"
+  }
+}
